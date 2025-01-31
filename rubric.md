@@ -42,7 +42,7 @@ Can the applicant effectively interpret and respond to error messages? Do they a
 
 - [ ] Reads the exact line/file triggering error messages
 - [ ] Recognizes and understands common error messages
-- [ ] Uses logs or print statements for debugging
+- [ ] Uses logs, print statements, or comments for debugging
 - [ ] Attempts to fix errors based on messages without immediate external help
 - [ ] Asks good questions to resolve errors
 
